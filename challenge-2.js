@@ -37,6 +37,7 @@ var weatherForecast = [
  }
 ]
 
+// Select date by key
 const dateSelector = {
     today: 0,
     Saturday: 1,
